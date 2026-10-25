@@ -1,0 +1,13 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: #6fac97;
+    text-align: center;
+}
+
+#canvas {
+    background-color: white;
+    box-shadow: 0px 3px 6px 0px #0003;
+}
